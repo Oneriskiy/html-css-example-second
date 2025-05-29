@@ -1,15 +1,14 @@
 @import url('header.css');
 @import url('main.css');
+@import url('footer.css');
 * {
     margin: 0px;
     padding: 0px;
 }
 
 body {
+
+overflow-x: hidden;
  font-family: 'Poppins', sans-serif;
  }
-
-.main_banner {
-    width: 100%;
-}
 
